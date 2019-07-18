@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: 'DM Sans', sans-serif;
+  color: #78909c;
+  background: linear-gradient(135deg, rgb(134, 211, 226) 0%, rgba(134, 211, 226) 50%, rgb(198, 125, 230) 50%, rgba(198, 125, 230) 100%);
+  
+}
